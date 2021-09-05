@@ -187,4 +187,4 @@
   - [가격 데이터 크롤링_가방](https://nbviewer.jupyter.org/gist/rjsdl56/e5d52f52a31fd6fc5e9203a9f3427e38)
   - [클로젯셰어 리뷰 크롤링 및 연관분석](https://nbviewer.jupyter.org/gist/rjsdl56/f89777d78b51eef474581da25ddb3f3a)
   - [팀_baseline 제작](https://nbviewer.jupyter.org/gist/rjsdl56/1332aaa21ad17965884dd6982910a853)
-  - [유저의 기간별, 소비패턴별 분류](
+  - [유저의 기간별, 소비패턴별 분류](https://nbviewer.jupyter.org/gist/rjsdl56/897a3a5e026568fe0341b22d2438959d)
