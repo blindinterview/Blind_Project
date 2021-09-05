@@ -1,10 +1,9 @@
-# Blind_Project
-
 # [프로젝트 정리]
 
 ### [1. 빅데이터를 통해 바꾸는 서울]
 
-![빅데이터를 통해 바꾸는 서울_박성준](C:\Users\parkgun\Desktop\포트폴리오 정리\빅데이터를 통한 서울\빅데이터를 통해 바꾸는 서울_박성준.PNG)
+<img width="575" alt="빅데이터를 통해 바꾸는 서울_박성준" src="https://user-images.githubusercontent.com/90144657/132131236-80a057cc-8214-4bd1-a25c-1fda061e3bb1.PNG">
+
 
 - 주제 : 서울 대중교통 사각지대 분석과 PM 우선도입지 선정
 
@@ -40,7 +39,7 @@
 
 ### [2. 융복합 프로젝트]
 
-![융복합_박성준](C:\Users\parkgun\Desktop\포트폴리오 정리\융복합\블라인드.PNG)
+<img width="960" alt="블라인드" src="https://user-images.githubusercontent.com/90144657/132131249-0c1aed01-2d9c-4d60-94fc-e700ea03297c.png">
 
 - 주제 : 음성인식을 통한 배달업무개선과 보험용 운행데이터 수집
 
@@ -89,7 +88,7 @@
 
 ### [3. Wanted 유니콘 기업 발굴하기]
 
-![원티드_요약](C:\Users\parkgun\Desktop\포트폴리오 정리\원티드\원티드_요약.png)
+<img width="960" alt="원티드_요약" src="https://user-images.githubusercontent.com/90144657/132131265-f6669739-3b2a-4889-89f2-3cfbacebc0cb.png">
 
 - 주제 : 원티드 국민연금DB를 이용해서 유니콘 기업 발굴하기
 
@@ -130,7 +129,7 @@
 
 ### [4. 모두컴퍼니 사용건수 예측하기]
 
-![모두컴퍼니_요약](C:\Users\parkgun\Desktop\포트폴리오 정리\원티드\모두컴퍼니_요약.png)
+<img width="960" alt="모두컴퍼니_요약" src="https://user-images.githubusercontent.com/90144657/132131273-9180c366-0345-43c1-b890-285f1719ebbc.png">
 
 - 주제 : 모두컴퍼니 이용자 향후 이용건수 예측
 
@@ -175,7 +174,7 @@
 
 ### [5. 클로젯셰어 유저 분석]
 
-![클로젯셰어_요약](C:\Users\parkgun\Desktop\포트폴리오 정리\원티드\클로젯셰어_요약.png)
+<img width="960" alt="클로젯셰어_요약" src="https://user-images.githubusercontent.com/90144657/132131280-7815982d-9c33-4a35-ba71-323a4a8f25f3.png">
 
 - 주제 : 신규 구매 전반 분석 및 결과 도식화
 
