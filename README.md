@@ -57,7 +57,6 @@
 
 - [데이터 탐색](https://nbviewer.jupyter.org/github/rjsdl56/project-fusion/blob/master/소스/데이터확인.ipynb)
 - [데이터 시각화](https://nbviewer.jupyter.org/gist/rjsdl56/63c6f23f578a2035d11a9aff065dd611)
-- [배달 키워드 크롤링](https://nbviewer.jupyter.org/github/rjsdl56/project-fusion/blob/master/소스/뉴스 기사 분석.ipynb) 
 - [배달 키워드 연관분석](https://nbviewer.jupyter.org/github/rjsdl56/project-fusion/blob/master/소스/연관분석.ipynb)
 - [AI팀 협업 - AI 학습 데이터 전처리](https://nbviewer.jupyter.org/github/rjsdl56/project-fusion/blob/master/소스/동규형_텍스트.ipynb)
 - [IoT팀 협업 - 자이로센서 데이터 이상치 감지](https://nbviewer.jupyter.org/github/rjsdl56/project-fusion/blob/master/소스/자이로센서_final.ipynb)
